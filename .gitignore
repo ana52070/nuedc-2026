@@ -1,0 +1,46 @@
+# IDE
+*.uvguix.*
+*.uvoptx
+*.uvprojx
+*.ewp
+*.ewd
+*.eww
+*.ioc
+/.settings/
+/.project
+/.cproject
+.mxproject
+Debug/
+Release/
+build/
+*.o
+*.d
+*.elf
+*.hex
+*.bin
+*.map
+*.lst
+*.su
+*.crf
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Model files (large, store via cloud drive)
+*.rknn
+*.kmodel
+*.onnx
+*.pt
+*.pth
+*.weights
+
+# OS
+Thumbs.db
+.DS_Store
